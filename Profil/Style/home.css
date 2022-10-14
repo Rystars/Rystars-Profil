@@ -1,0 +1,29 @@
+.Body {
+    background-color: tomato;
+}
+
+.welcome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 100%;
+    height: auto;
+    
+    background-color: gold;
+}
+
+.running {
+    font-size: xx-large;
+}
+
+#head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pap {
+    width: 30%;
+    height: 30%;
+}
